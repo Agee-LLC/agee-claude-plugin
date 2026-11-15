@@ -1,0 +1,16 @@
+{
+  "name": "agee-plugins",
+  "description": "The Agee plugin for Claude: work with your law firm's cases in Agee from a conversation.",
+  "owner": {
+    "name": "Agee, LLC",
+    "url": "https://agee.law"
+  },
+  "plugins": [
+    {
+      "name": "agee",
+      "source": "./",
+      "description": "Work with your law firm's cases in Agee from Claude: search documents and court filings, check deadlines, and update tasks, time and notes.",
+      "homepage": "https://agee.law"
+    }
+  ]
+}
