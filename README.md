@@ -2,8 +2,6 @@
 
 Agee is a case management platform for law firms. This plugin connects Claude to your firm's Agee account so you can work with your cases from a conversation.
 
-**Status:** pre-release. The listing in the Claude directory is pending.
-
 ## What it does
 
 The plugin adds Agee's hosted connector at `https://mcp.agee.law`. Once you sign in, Claude can:
