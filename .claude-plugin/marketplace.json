@@ -2,7 +2,7 @@
   "name": "agee-plugins",
   "description": "The Agee plugin for Claude: work with your law firm's cases in Agee from a conversation.",
   "owner": {
-    "name": "Agee, LLC",
+    "name": "Agee",
     "url": "https://agee.law"
   },
   "plugins": [
