@@ -44,4 +44,4 @@ AI output can be wrong. Before legal advice based on it reaches a client, a qual
 - Privacy: https://agee.law/privacy
 - Terms: https://agee.law/terms
 
-Copyright Agee. All rights reserved.
+Copyright Agee, LLC. All rights reserved.
