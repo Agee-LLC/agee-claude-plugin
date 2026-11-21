@@ -1,6 +1,6 @@
 {
   "name": "agee",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Work with your law firm's cases in Agee from Claude: search documents and court filings, check deadlines, and update tasks, time and notes.",
   "author": {
     "name": "Agee, LLC",

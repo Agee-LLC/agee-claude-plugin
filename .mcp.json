@@ -2,7 +2,11 @@
   "mcpServers": {
     "agee": {
       "type": "http",
-      "url": "https://mcp.agee.law"
+      "url": "https://mcp.agee.law",
+      "oauth": {
+        "clientId": "599ra3eits4rg3q1j7u95902ea",
+        "callbackPort": 5555
+      }
     }
   }
 }
